@@ -60,7 +60,9 @@ a dog running through a grassy field
 ```
 
 ---
+## Sample Image
 
+![Sample Image](sample.jpg)
 ## 📂 Project Structure
 
 ```
